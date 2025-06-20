@@ -1,0 +1,32 @@
+Welcome! This is my first and main repository to document my long-term journey in the data world — including Data Science, Machine Learning, and Big Data.
+
+🧭 Purpose
+This repository serves as the foundation for everything I’ll build, learn, and explore in the data field. It will grow over time as I progress in skills and experience.
+
+📂 Structure (Planned)
+- projects/ → Real-world data projects and case studies.
+- notebooks/ → Jupyter notebooks for exploration and learning.
+- datasets/ → Sample datasets (non-sensitive).
+- resources/ → Notes, learning plans, and references.
+
+🧠 Topics To Explore
+- Data preprocessing and analysis
+- Machine learning models (classification, regression, clustering)
+- Data visualization
+- SQL and database querying
+- Big Data tools (e.g., Spark, Hadoop)
+- Cloud integration (e.g., GCP, AWS – later stage)
+
+🔧 Tools
+- Python (Pandas, NumPy, Scikit-learn, Matplotlib)
+- Jupyter Notebook
+- SQL
+- Git & GitHub
+- [Future] Apache Spark, Hadoop, Airflow
+
+🚀 Future Goals
+- Build a solid portfolio of projects
+- Share knowledge through notebooks and documentation
+- Prepare for internships or roles in the data field
+
+📌 This repository is a starting point — a place to grow, experiment, and showcase my development as a data enthusiast. Stay tuned as this journey unfolds!
