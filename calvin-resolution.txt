@@ -22,11 +22,11 @@ This repository serves as the foundation for everything I’ll build, learn, and
 - Jupyter Notebook
 - SQL
 - Git & GitHub
-- [Future] Apache Spark, Hadoop, Airflow
+- [Future] Apache Spark, Hadoop
 
 🚀 Future Goals
 - Build a solid portfolio of projects
 - Share knowledge through notebooks and documentation
 - Prepare for internships or roles in the data field
 
-📌 This repository is a starting point — a place to grow, experiment, and showcase my development as a data enthusiast. Stay tuned as this journey unfolds!
+📌 This repository is a starting point a place to grow, experiment, and showcase my development as a data enthusiast. Stay tuned as this journey unfolds!
